@@ -1,0 +1,36 @@
+table, th, td {
+border: 1px solid black;
+border-collapse: collapse;
+font-size:15px;
+layout:fixed;
+color:white;
+}
+
+th,td {padding:5px;text-align:center;}
+h1 {text-align:center;color:red;}
+h2 {text-align:center;color:red;}
+h3 {text-align:center;color:red;}
+p {font-family:arial;text-align:center;color:red;font-family:cambria;}
+
+ul {
+text-align:center;
+list-style-type:none;
+}
+
+#plants {
+color:green;
+}
+
+#oranges {
+color:orange;
+}
+
+#leftalign {
+text-align:left;
+color:black;
+}
+
+#whitered {
+background-color:red;
+color:white;
+}
